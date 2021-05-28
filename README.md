@@ -5,7 +5,7 @@ Forks&Spoons is an imaginary restaurant that uses this mobile app here for onlin
 You can access the supporting medium article from the links below:
 - Integrating Huawei Crash, Push Kit and Account Kit to Forks & Spoons: A Restaurant App - Part 1
 - Integrating Huawei Analytics, Map and Location Flutter Plugins to Forks & Spoons : A Restaurant App - Part 2
-<img src="/.docs/ss1.png" width = 40% height = 40% style="margin:1.5em"><img src="/.docs/ss3.png" width = 40% height = 40% style="margin:1.5em">
+<img src="/.docs/ss1.png" width = 40% height = 40% style="margin:1.5em; margin-right:50px"><img src="/.docs/ss3.png" width = 40% height = 40% style="margin:1.5em">
 ## How to run the app
 
 To build and run the app:
