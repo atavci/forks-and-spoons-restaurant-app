@@ -10,12 +10,12 @@ You can access the supporting medium article from the links below:
 <div class="row">
     <div class="col-md-6">
         <div class="col-md-12">
-            <img src="/.docs/ss1.png" width = 40% height = 40% style="float:left;margin:1.5em; margin-right:50px">
+            <img src="/.docs/ss1.png" width = 30% height = 30% style="float:left;margin:1.5em;">
         </div>
     </div>
     <div class="col-md-6">
         <div class="col-md-12">
-            <img src="/.docs/ss3.png" width = 40% height = 40% style=" margin:1.5em">
+            <img src="/.docs/ss3.png" width = 30% height = 30% style=" margin:1.5em">
         </div>
     </div>
 </div>
