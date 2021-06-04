@@ -3,7 +3,7 @@
 Forks&Spoons is an imaginary restaurant that uses this mobile app here for online delivery. The app is developed with Flutter and it showcases following HMS (Huawei Mobile Services) Kits: Push Kit, Account Kit, AGCrash Service, Map Kit, Location Kit, Analytics Kit. 
 
 You can access the supporting medium article from the links below:
-- Integrating Huawei Crash, Push Kit and Account Kit to Forks & Spoons: A Restaurant App - Part 1
+- [Integrating Huawei Crash, Push Kit and Account Kit to Forks & Spoons: A Restaurant App - Part 1](https://medium.com/huawei-developers/integrating-huawei-crash-push-kit-and-account-kit-to-forks-spoons-a-restaurant-app-part-1-97f55e6f0516)
 - Integrating Huawei Analytics, Map and Location Flutter Plugins to Forks & Spoons : A Restaurant App - Part 2
 
 
